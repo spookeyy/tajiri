@@ -1,0 +1,32 @@
+{
+  "name": "tajiri",
+  "version": "1.0.0",
+  "description": "Mpesa nodeJs SDK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arthur-codeX/tajiri.git"
+  },
+  "keywords": [
+    "mpesa",
+    "ctb",
+    "btc",
+    "password"
+  ],
+  "author": "Arthur-codeX",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Arthur-codeX/tajiri/issues"
+  },
+  "homepage": "https://github.com/Arthur-codeX/tajiri#readme",
+  "dependencies": {
+    "axios": "^1.6.2"
+  },
+  "devDependencies": {
+    "dotenv": "^16.3.1",
+    "jest": "^29.7.0"
+  }
+}
