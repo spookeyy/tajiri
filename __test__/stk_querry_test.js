@@ -18,7 +18,7 @@ const config = {
 async function test() {
   let tajiri = new Mpesa({ environment: "sandbox", config });
 
-  let res = await tajiri.stk_query({ id: "ws_CO_04022024073045085728829146" });
+  let res = await tajiri.stk_query({ id: "ws_CO_04022024093512587728829146" });
   console.log(res);
 }
 

@@ -8,7 +8,7 @@ const config = {
 };
 
 async function test() {
-  let tajiri = new Mpesa({ environment: "live", config: config });
+  let tajiri = new Mpesa({ environment: "sandbox", config: config });
   let res = await tajiri.auth({});
 
   console.log(res);
