@@ -3,14 +3,16 @@
 ## Installation
 
 ```bash
-npm install tajiri-mpesa-express
+npm install tajiri
 ```
 
 or
 
 ```bash
-yarn add tajiri-mpesa-express
+yarn add tajiri
 ```
+
+**Warning**: Note that this npm package name is case sensitive.
 
 ## Description
 
