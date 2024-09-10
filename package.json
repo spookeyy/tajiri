@@ -23,7 +23,8 @@
   },
   "homepage": "https://github.com/Arthur-codeX/tajiri#readme",
   "dependencies": {
-    "axios": "^1.6.2"
+    "axios": "^1.6.2",
+    "tajiri": "^1.1.0"
   },
   "devDependencies": {
     "dotenv": "16.3.1",

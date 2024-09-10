@@ -935,16 +935,6 @@ cross-spawn@^7.0.3:
     shebang-command "^2.0.0"
     which "^2.0.1"
 
-date-fns-tz@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/date-fns-tz/-/date-fns-tz-2.0.0.tgz#1b14c386cb8bc16fc56fe333d4fc34ae1d1099d5"
-  integrity sha512-OAtcLdB9vxSXTWHdT8b398ARImVwQMyjfYGkKD2zaGpHseG2UPHbHjXELReErZFxWdSLph3c2zOaaTyHfOhERQ==
-
-date-fns@^3.0.6:
-  version "3.0.6"
-  resolved "https://registry.yarnpkg.com/date-fns/-/date-fns-3.0.6.tgz#fe3aeb7592d359f075ffc41cb16139828810ca83"
-  integrity sha512-W+G99rycpKMMF2/YD064b2lE7jJGUe+EjOES7Q8BIGY8sbNdbgcs9XFTZwvzc9Jx1f3k7LB7gZaZa7f8Agzljg==
-
 debug@^4.1.0, debug@^4.1.1, debug@^4.3.1:
   version "4.3.4"
   resolved "https://registry.npmjs.org/debug/-/debug-4.3.4.tgz"
@@ -2084,6 +2074,13 @@ supports-preserve-symlinks-flag@^1.0.0:
   version "1.0.0"
   resolved "https://registry.npmjs.org/supports-preserve-symlinks-flag/-/supports-preserve-symlinks-flag-1.0.0.tgz"
   integrity sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w==
+
+tajiri@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/tajiri/-/tajiri-1.1.0.tgz#a5341df21f0610fcc550dee59b485c8507b8b490"
+  integrity sha512-Bc/JDNJF2b4fxxgcWPj7lA25rk+up22Mb8UIosICFa0FX+5hlGj/qgxL9XQesqvFegZyfBmdU6POrNuYOmKlXg==
+  dependencies:
+    axios "^1.6.2"
 
 test-exclude@^6.0.0:
   version "6.0.0"
